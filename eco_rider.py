@@ -255,7 +255,7 @@ Seleccione una opción: """)
         print(f"\nEl total a pagar es de ${total:.2f}.\n")
         break
 
-    if main_menu == 4:
+    elif main_menu == 4:
         flag_1 = False
         print("\nSe ha cerrado el menú.\n\n¡Gracias por eleginros!")
         break
