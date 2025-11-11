@@ -3,7 +3,6 @@
 estandar_bike = 200.0
 premium_bike = 500.0
 total = 0
-subtotal = 0
 total_timer = 0
 all_time=0
 day_charge = 0
